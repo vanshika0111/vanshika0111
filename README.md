@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python applications**
 
-- :telescope: I'm currently working on projects of **GUI & Web Development**
+- :telescope: I'm currently working on **GUI & Web Development**
 
 - :open_book: Ask me anything about **Python & OOP**
 
