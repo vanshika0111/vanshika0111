@@ -3,7 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanshika0111" alt="vanshika0111" /></a> </p>
 
-- 🌱 I’m currently learning **OOP**
+- 🌱 I’m currently learning **Python applications**
+
+- :telescope: I'm currently working on projects of **GUI & Web Development**
+
+- :open_book: Ask me anything about **Python & OOP**
 
 - 📫 How to reach me **vanshikag0111@gmail.com**
 
