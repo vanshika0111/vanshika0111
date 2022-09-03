@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vanshika_0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshika_0111" height="30" width="40" /></a>
-<a href="vanshika-gupta-2810a1237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika-gupta-2810a1237/" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vanshika0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vanshika0111" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vanshikag0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vanshikag0111" height="30" width="40" /></a>
 </p>
